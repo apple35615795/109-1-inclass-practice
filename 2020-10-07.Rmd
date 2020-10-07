@@ -1,0 +1,62 @@
+---
+title: "課?<a0>?練習模<e7><89><88>"
+author: "ù????"
+date: "2020-10-07"
+output: output_format
+params:
+  id: "410973035"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Your code
+```{r}
+num1 <- 5
+```
+```{r}
+vNum1 <- c(-1,5)
+```
+
+```{r}
+vNum4 <- c(-1,5,2,3)
+```
+
+```{r}
+vNum5 <- c(c(-1,5),c(2,3))
+```
+
+```{r}
+vNum2 <- c(2,3)
+```
+
+```{r}
+vNum4 <- c() 
+```
+
+```{r}
+vNum3 <- c(vNum2, vNum1)
+```
+
+```{r}
+num1Vector<-c(5,6,7)
+```
+
+```{r}
+object.size(num1)
+```
+
+```{r}
+char1<-"你好"
+```
+
+```{r}
+char1Vector<-c("你好","How are you?")
+```
+
+```{r}
+dialogue <- c('小明說："明天不用上課。"',
+               '小花說："真的嗎？"')
+```
+
